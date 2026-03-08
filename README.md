@@ -1,4 +1,4 @@
-# BiRank vs Matrix Factorization for Recommendation Systems
+# BiRank vs Matrix Factorization Movie Recommendation Systems
 
 A comparative analysis of two popular recommendation algorithms: BiRank (a bipartite graph ranking algorithm) and Matrix Factorization, implemented in Python using the MovieLens dataset.
 
